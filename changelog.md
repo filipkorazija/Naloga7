@@ -10,4 +10,5 @@
 - dodan scenarij
 - dodan index.html
 - dodan testni scenarij
+- dodan kontaktni.hmtl
 - posodobljeni kontakti.html
