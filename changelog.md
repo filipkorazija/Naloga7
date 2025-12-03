@@ -9,3 +9,5 @@
 ## v1.0.1
 - dodan scenarij
 - dodan index.html
+- dodan testni scenarij
+- posodobljeni kontakti.html
