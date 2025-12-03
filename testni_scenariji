@@ -1,0 +1,29 @@
+# Testni scenariji
+
+## Scenarij 1
+**Funkcionalnost:** Registracija uporabnika  
+**Koraki testa:**  
+1. Odpri stran za registracijo  
+2. Izpolni polja (ime, email, geslo)  
+3. Klikni "Registriraj"  
+**Pričakovan rezultat:**  
+Uporabnik je uspešno registriran.
+
+
+## Scenarij 2
+**Funkcionalnost:** Prijava uporabnika  
+**Koraki testa:**  
+1. Odpri prijavno stran  
+2. Vnesi email in geslo  
+3. Klikni "Prijava"  
+**Pričakovan rezultat:**  
+Uporabnik se uspešno prijavi v sistem.
+
+
+## Scenarij 3
+**Funkcionalnost:** Dodajanje izdelka v košarico  
+**Koraki testa:**  
+1. Odpri stran izdelka  
+2. Klikni "Dodaj v košarico"  
+**Pričakovan rezultat:**  
+Izdelek se prikaže v košarici.
